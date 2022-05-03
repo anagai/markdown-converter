@@ -1,0 +1,21 @@
+{
+  "name": "mailchimp-home-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.0.3",
+    "sinon": "^13.0.2"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "reporters": [
+      "default"
+    ]
+  }
+}
